@@ -1,6 +1,6 @@
 # slackparrottext
 
-Basically just run the script and call parrot with the text that you want
+Basically just run the notebook and call parrot with the text that you want
 
 Single words only, no punctuation and the letters are auto capitalized
 
