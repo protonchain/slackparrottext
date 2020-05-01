@@ -1,6 +1,6 @@
 # slackparrottext
 
-Basically just run the script and call parrot with the text that you want
+Basically just run the notebook and call parrot with the text that you want
 
 If you want the parrots to do a wave, instead summon waveparrot with the text you want and copy that into slack
 
