@@ -2,9 +2,12 @@
 
 Basically just run the script and call parrot with the text that you want
 
-Single words only, no punctuation and the letters are auto capitalized
+If you want the parrots to do a wave, instead summon waveparrot with the text you want and copy that into slack
 
-You can modify letters.csv if you like to make the letters look different, but I wouldn't try to
+Letters are auto capitalized, no punctuation (yet). You can have multiple words, just don't make them
+too long.
+
+You can modify letters.csv if you like to make the letters look different.
 
 Attaching a blank emoji in case your slack doesn't have a blank emoji
 
